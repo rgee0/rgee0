@@ -1,4 +1,4 @@
-### Hi there 👋
+## Work in progress
 
 <!--
 **rgee0/rgee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 GitHub Stats
+![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rgee0&show_icons=true&theme=gruvbox)
